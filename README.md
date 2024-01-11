@@ -1,5 +1,8 @@
-### Hi there 👋
+### welcome 👋
 
+[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/bi-sz/github-readme-stats)
 <!--
 **hyl0804/hyl0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
